@@ -1,1 +1,1 @@
-# bc-m7med
+# broadcast-discordbot
