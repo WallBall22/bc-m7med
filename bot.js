@@ -14,7 +14,7 @@ return;
    if(!message.member.hasPermission('ADMINISTRATOR')) return;
             var bc = new Discord.RichEmbed()
             .addField(' » الرسالة : ', args)
-            .setColor('#ff0000')
+            .setColor('#1eb3a5')
             // m.send(`[${m}]`);
             m.send(`${m}`,{embed: bc});
         });
